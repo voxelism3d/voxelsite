@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: TUO-UTENTE-GITHUB/NOME-REPOSITORY
+  repo: voxelism3d/voxsite
   branch: main
 media_folder: images/uploads
 public_folder: /images/uploads
