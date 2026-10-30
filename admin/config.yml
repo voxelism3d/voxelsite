@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: voxelism3d/voxsite
+  name: git-gateway
   branch: main
 media_folder: images/uploads
 public_folder: /images/uploads
