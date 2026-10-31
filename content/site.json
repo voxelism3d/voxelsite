@@ -1,37 +1,17 @@
 {
   "brand": "VOXELISM",
-  "hero_title": "Dai pixel alla materia",
-  "hero_text": "Prototipi, modelli e oggetti unici progettati e stampati con precisione millimetrica.",
-  "email": "ciao@tuodominio.it",
-  "etsy_url": "",
-  "instagram_url": "",
-  "showreel": "",
-  "stats": [
-    {
-      "numero": 250,
-      "etichetta": "Progetti stampati"
-    },
-    {
-      "numero": 12,
-      "etichetta": "Materiali"
-    },
-    {
-      "numero": 50,
-      "etichetta": "Micron di precisione"
-    },
-    {
-      "numero": 100,
-      "etichetta": "% passione"
-    }
-  ],
-  "materiali": [
-    "PLA",
-    "PETG",
-    "ABS",
-    "ASA",
-    "TPU flessibile",
-    "Nylon",
-    "Resina",
-    "Fibra di carbonio"
-  ]
+  "logo": "",
+  "titolo_scheda": "Voxelism — Stampa 3D",
+  "descrizione_seo": "Stampa 3D su misura in PLA, PETG e TPU: prototipi, modelli e oggetti unici.",
+  "favicon": "",
+  "hero_tag": "// STAMPA 3D · STRATO DOPO STRATO",
+  "hero_titolo": "Dai pixel alla *materia*",
+  "hero_testo": "Prototipi, modelli e oggetti unici progettati e stampati con cura, in PLA, PETG e TPU.",
+  "hero_btn1_testo": "Scopri i lavori",
+  "hero_btn1_link": "#lavori",
+  "hero_btn2_testo": "Richiedi un preventivo",
+  "hero_btn2_link": "#contatti",
+  "hero_video": "",
+  "footer_testo": "© {anno} Voxelism — Stampa 3D",
+  "footer_extra": ""
 }
